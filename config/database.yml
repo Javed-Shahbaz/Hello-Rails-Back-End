@@ -24,6 +24,8 @@ default: &default
 development:
   <<: *default
   database: Hello_Rails_Back_End_development
+  username: postgres
+  password: 123
 
   # The specified database role being used to connect to postgres.
   # To create additional roles in postgres see `$ createuser --help`.
@@ -82,5 +84,5 @@ test:
 production:
   <<: *default
   database: Hello_Rails_Back_End_production
-  username: Hello_Rails_Back_End
-  password: <%= ENV["HELLO_RAILS_BACK_END_DATABASE_PASSWORD"] %>
+  username: postgres
+  password: 123
