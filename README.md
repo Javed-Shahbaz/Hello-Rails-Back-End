@@ -1,6 +1,6 @@
 <a name="readme-top"></a>
 
-# Hello Rails React
+# Hello Rails Backend
 
 
 
@@ -25,9 +25,9 @@
 
 <!-- PROJECT DESCRIPTION -->
 
-# 📚🎵🎮 Hello Rails React <a name="about-project"></a>
+# 📚🎵🎮 Hello Rails Backend <a name="about-project"></a>
 
-**Hello Rails React** In this project I use React with Rails as single application by using webpack. 
+**Hello React Frontend** In this project I use Rails as a Backend application. <a href="https://github.com/Javed-Shahbaz/Hello-React-Front-End">Hello-React-Front-End</a> app.
 
 ## 🛠 Built With <a name="built-with"></a>
 
@@ -41,11 +41,6 @@
 </details> -->
 
 <details>
-<summary>Frontend</summary>
-  <ul>
-    <li><a href="https://www.react.dev/">React</a></li>
-  </ul>
-
 <summary>Backend</summary>
   <ul>
     <li><a href="https://www.postgresql.org/">PostgreSQL</a></li>
@@ -84,13 +79,13 @@ In order to run this project you need:
 Clone or download the Collectify repository to your local machine.
 ```sh
   cd my-folder
-  git clone https://github.com/fpsapc/hello-rails-react.git
+  git clone https://github.com/Javed-Shahbaz/Hello-Rails-Back-End.git
 ```
 Open your terminal and navigate to the cloned project directory.
 
 ### Install
 
-This project does not require additional dependencies, just Ruby interpreter. However, it uses RuboCop as a linter and you should set it up as well.
+This project does not require additional dependencies, just a Ruby interpreter. However, it uses RuboCop as a linter and you should set it up as well.
 
 ```sh
 bundle install
@@ -105,8 +100,7 @@ To run the project, navigate to the project directory and execute the following 
 ```sh
   bundle install
   rails db:create db:migrate 
-  npm run build
-  ./bin/dev
+  rails s
 ```
 
 ### Run tests
@@ -115,7 +109,7 @@ To run tests, run the following command:
 
 Run the following command
 ```sh
-No tests available for this project/
+No test available for this project.
 ```
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
@@ -159,7 +153,7 @@ If you like this project give us a star ⭐️
 
 ## 🙏 Acknowledgments <a name="acknowledgements"></a>
 
-Special thanks to microverse team for their guidlines.
+Special thanks to the microverse team for their guidelines.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
