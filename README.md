@@ -1,6 +1,6 @@
 <a name="readme-top"></a>
 
-# Hello Rails React
+# Hello Rails Backend
 
 
 
@@ -25,9 +25,9 @@
 
 <!-- PROJECT DESCRIPTION -->
 
-# 📚🎵🎮 Hello Rails React <a name="about-project"></a>
+# 📚🎵🎮 Hello Rails Backend <a name="about-project"></a>
 
-**Hello Rails React** In this project I use React with Rails as single application by using webpack. 
+**Hello Rails Backend** In this project I use Rails as a Backend application.
 
 ## 🛠 Built With <a name="built-with"></a>
 
@@ -85,7 +85,7 @@ Open your terminal and navigate to the cloned project directory.
 
 ### Install
 
-This project does not require additional dependencies, just Ruby interpreter. However, it uses RuboCop as a linter and you should set it up as well.
+This project does not require additional dependencies, just a Ruby interpreter. However, it uses RuboCop as a linter and you should set it up as well.
 
 ```sh
 bundle install
@@ -153,7 +153,7 @@ If you like this project give us a star ⭐️
 
 ## 🙏 Acknowledgments <a name="acknowledgements"></a>
 
-Special thanks to microverse team for their guidlines.
+Special thanks to the microverse team for their guidelines.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
