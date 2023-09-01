@@ -27,7 +27,7 @@
 
 # 📚🎵🎮 Hello Rails Backend <a name="about-project"></a>
 
-**Hello Rails Backend** In this project I use Rails as a Backend application.
+**Hello React Frontend** In this project I use Rails as a Backend application. <a href="https://github.com/Javed-Shahbaz/Hello-React-Front-End">Hello-React-Front-End</a> app.
 
 ## 🛠 Built With <a name="built-with"></a>
 
